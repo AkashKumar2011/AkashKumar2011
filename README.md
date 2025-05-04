@@ -42,8 +42,8 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
-![](https://nirzak-streak-stats.vercel.app/?user=AkashKumar2011&theme=light&hide_border=false)<br/>
-
+# 📊 GitHub streak:
+![](https://nirzak-streak-stats.vercel.app/?user=AkashKumar2011&theme=light&hide_border=false)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashKumar2011&show_icons=true&locale=en&layout=compact" alt="AkashKumar2011" /></p>
 
 ## 🏆 GitHub Trophies
