@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h6>Hi 👋, I'm Akash Kumar</h6>
+<h4>Hi 👋, I'm Akash Kumar</h4>
 I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy building scalable web applications and continuously exploring new technologies to enhance my skill set.
 
 ## 🌐 Socials:
@@ -15,12 +15,9 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
@@ -46,5 +43,9 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 
+![](https://nirzak-streak-stats.vercel.app/?user=AkashKumar2011&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKumar2011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashKumar2011&show_icons=true&locale=en&layout=compact" alt="AkashKumar2011" /></p>
+
+## 🏆 GitHub Trophies
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AkashKumar2011" alt="AkashKumar2011" /></a></p>
