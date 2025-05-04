@@ -24,10 +24,12 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/AkashKu99318871?t=JyGipgyM2LTbeZ3usQw1hg&s=09" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<p>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/akash-kumar-26a2b1218/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+  <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/akash_gupta_2304/?hl=en" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+  <a target="_blank" href="https://twitter.com/https://x.com/AkashKu99318871?t=JyGipgyM2LTbeZ3usQw1hg&s=09" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/people/Akash-Gupta/pfbid02E59R7gr4oTyoewS7J13NjJ42C5JGrtCjJoFaJ3MHE3bAMuHUQuC8PfWchcSatwP2l/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/akash_gupta_2304/?hl=en" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AkashKumar2011&show_icons=true&locale=en" alt="AkashKumar2011" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashKumar2011&" alt="AkashKumar2011" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashKumar2011&show_icons=true&locale=en&layout=compact" alt="AkashKumar2011" /></p>
