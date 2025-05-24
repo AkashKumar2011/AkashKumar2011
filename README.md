@@ -52,6 +52,8 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 ![](https://nirzak-streak-stats.vercel.app/?user=AkashKumar2011&theme=light&hide_border=false)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashKumar2011&show_icons=true&locale=en&layout=compact" alt="AkashKumar2011" /></p>
 
+---
+
 ## 🏆 GitHub Trophies
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AkashKumar2011" alt="AkashKumar2011" /></a></p>
 
