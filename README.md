@@ -1,14 +1,14 @@
 # 💫 About Me:
 <h3>Hi 👋, I'm Akash Kumar</h3>
 I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy building scalable web applications and continuously exploring new technologies to enhance my skill set.
-
+---
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:kumarakash20112000@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-kumar-26a2b1218/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akash_gupta_2304/?hl=en)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AkashKu99318871?t=JyGipgyM2LTbeZ3usQw1hg&s=09)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/people/Akash-Gupta/pfbid02E59R7gr4oTyoewS7J13NjJ42C5JGrtCjJoFaJ3MHE3bAMuHUQuC8PfWchcSatwP2l/)  
- 
+ ---
 
 # 💻 Languages and Tools :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -42,6 +42,7 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
+---
 # 📊 GitHub streak:
 ![](https://nirzak-streak-stats.vercel.app/?user=AkashKumar2011&theme=light&hide_border=false)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashKumar2011&show_icons=true&locale=en&layout=compact" alt="AkashKumar2011" /></p>
@@ -49,7 +50,7 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 ## 🏆 GitHub Trophies
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AkashKumar2011" alt="AkashKumar2011" /></a></p>
 
-
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
